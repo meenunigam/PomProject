@@ -143,7 +143,7 @@ public class TestScriptLogin extends BaseTestSF {
 		org.testng.Assert.assertEquals(pageTitle,"Forgot Your Password | Salesforce");
 	
 		//System.out.println("Page Title is " + pageTitle);
-		forgotPage.enterEmail("meenunigam@gmail.com");
+		forgotPage.enterEmail("");
 		driver = forgotPage.clickContineButton();
 		
 		Thread.sleep(2000);
