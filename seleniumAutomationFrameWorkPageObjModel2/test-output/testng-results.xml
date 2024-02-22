@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T22:09:37 MST" name="SFSuite" finished-at="2024-02-21T22:10:34 MST" duration-ms="56616">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T22:09:37 MST" name="SFLoginTest" finished-at="2024-02-21T22:10:34 MST" duration-ms="56616">
+      <class name="com.sf.automationTests.TestScriptLogin">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:37 MST" name="setUpBeforeMethod" finished-at="2024-02-21T22:09:39 MST" duration-ms="1791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestScriptLogin.loginSFTC1()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSFTC1()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:39 MST" name="loginSFTC1" finished-at="2024-02-21T22:09:46 MST" duration-ms="7109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSFTC1 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:46 MST" name="tearDownAfterTestMethod" finished-at="2024-02-21T22:09:46 MST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:46 MST" name="setUpBeforeMethod" finished-at="2024-02-21T22:09:48 MST" duration-ms="1490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestScriptLogin.loginSFTC2()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSFTC2()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:48 MST" name="loginSFTC2" finished-at="2024-02-21T22:09:59 MST" duration-ms="11329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSFTC2 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:59 MST" name="tearDownAfterTestMethod" finished-at="2024-02-21T22:09:59 MST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:09:59 MST" name="setUpBeforeMethod" finished-at="2024-02-21T22:10:01 MST" duration-ms="1538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestScriptLogin.loginSFTC3()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSFTC3()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:01 MST" name="loginSFTC3" finished-at="2024-02-21T22:10:16 MST" duration-ms="15786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSFTC3 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:16 MST" name="tearDownAfterTestMethod" finished-at="2024-02-21T22:10:17 MST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:17 MST" name="setUpBeforeMethod" finished-at="2024-02-21T22:10:18 MST" duration-ms="1376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestScriptLogin.loginSFTC4()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSFTC4()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:18 MST" name="loginSFTC4" finished-at="2024-02-21T22:10:25 MST" duration-ms="7270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSFTC4 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:25 MST" name="tearDownAfterTestMethod" finished-at="2024-02-21T22:10:25 MST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:25 MST" name="setUpBeforeMethod" finished-at="2024-02-21T22:10:27 MST" duration-ms="1343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TestScriptLogin.loginSFTC5()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="loginSFTC5()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:27 MST" name="loginSFTC5" finished-at="2024-02-21T22:10:34 MST" duration-ms="6834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSFTC5 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.sf.automationTests.TestScriptLogin@6bb2d00b]" started-at="2024-02-21T22:10:34 MST" name="tearDownAfterTestMethod" finished-at="2024-02-21T22:10:34 MST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.sf.automationTests.TestScriptLogin -->
+    </test> <!-- SFLoginTest -->
+  </suite> <!-- SFSuite -->
+</testng-results>

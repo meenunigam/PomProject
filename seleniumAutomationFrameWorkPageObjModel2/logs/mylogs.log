@@ -1,0 +1,1402 @@
+20240214 19:21:20 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java30 - SFLoginTest has started....................
+20240214 19:21:28 INFO  [main] base.BaseTestSF BaseTestSF.java33 - -------in before method------
+20240214 19:21:28 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java13 - loginSFOne.......test execution started........
+20240214 19:21:28 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is meenu@tekarch.com
+20240214 19:21:28 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is dolly123
+20240214 19:21:32 INFO  [main] base.BaseTestSF BaseTestSF.java55 - User clicked Login Button
+20240214 19:21:37 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java44 - -------in valid login method------
+20240214 19:21:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java19 - loginSFOne.......test execution completed with success........
+20240214 19:21:37 INFO  [main] base.BaseTestSF BaseTestSF.java39 - -------in afterallmethods method------
+20240214 19:21:44 INFO  [main] base.BaseTestSF BaseTestSF.java33 - -------in before method------
+20240214 19:21:44 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java13 - loginSFTwo.......test execution started........
+20240214 19:21:44 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is meenu@tekarch.com
+20240214 19:21:44 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is 
+20240214 19:21:44 INFO  [main] base.BaseTestSF BaseTestSF.java55 - User clicked Login Button
+20240214 19:21:44 INFO  [main] base.BaseTestSF BaseTestSF.java60 - Text got from web element is Please enter your password.
+20240214 19:21:49 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java79 - -------in invalid login method------
+20240214 19:21:49 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java19 - loginSFTwo.......test execution completed with success........
+20240214 19:21:49 INFO  [main] base.BaseTestSF BaseTestSF.java39 - -------in afterallmethods method------
+20240214 19:21:49 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java37 - SFLoginTest has ended....................
+20240214 19:27:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java30 - SFLoginTest has started....................
+20240214 19:27:37 INFO  [main] base.BaseTestSF BaseTestSF.java33 - -------in before method------
+20240214 19:27:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java13 - loginSFOne.......test execution started........
+20240214 19:27:37 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is meenu@tekarch.com
+20240214 19:27:38 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is dolly123
+20240214 19:27:40 INFO  [main] base.BaseTestSF BaseTestSF.java55 - User clicked Login Button
+20240214 19:27:45 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java44 - -------in valid login method------
+20240214 19:27:45 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java19 - loginSFOne.......test execution completed with success........
+20240214 19:27:45 INFO  [main] base.BaseTestSF BaseTestSF.java39 - -------in afterallmethods method------
+20240214 19:27:52 INFO  [main] base.BaseTestSF BaseTestSF.java33 - -------in before method------
+20240214 19:27:52 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java13 - loginSFTwo.......test execution started........
+20240214 19:27:52 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is meenu@tekarch.com
+20240214 19:27:52 INFO  [main] base.BaseTestSF BaseTestSF.java50 - Text entered is 
+20240214 19:27:52 INFO  [main] base.BaseTestSF BaseTestSF.java55 - User clicked Login Button
+20240214 19:27:52 INFO  [main] base.BaseTestSF BaseTestSF.java60 - Text got from web element is Please enter your password.
+20240214 19:27:57 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java79 - -------in invalid login method------
+20240214 19:27:57 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java19 - loginSFTwo.......test execution completed with success........
+20240214 19:27:57 INFO  [main] base.BaseTestSF BaseTestSF.java39 - -------in afterallmethods method------
+20240214 19:27:57 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java37 - SFLoginTest has ended....................
+20240215 22:15:34 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240215 22:15:43 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240215 22:15:43 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFOne.......test execution started........
+20240215 22:15:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240215 22:15:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240215 22:15:48 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240215 22:15:53 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java47 - -------in valid login method------
+20240215 22:15:53 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFOne.......test execution completed with success........
+20240215 22:15:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240215 22:16:00 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240215 22:16:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTwo.......test execution started........
+20240215 22:16:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240215 22:16:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 
+20240215 22:16:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240215 22:16:01 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240215 22:16:01 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTwo.......test execution completed with failure........
+20240215 22:16:01 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240215 22:16:01 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240215 22:16:01 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 18:50:10 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 18:50:18 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:50:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 18:50:18 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 18:50:18 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:50:18 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 18:50:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 18:50:23 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC1.......test execution completed with failure........
+20240220 18:50:23 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 18:50:24 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 18:50:30 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:50:30 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 18:50:30 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java53 - -------Starting TC2------
+20240220 18:50:30 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:50:30 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 
+20240220 18:50:30 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 18:50:30 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 18:50:31 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC2.......test execution completed with failure........
+20240220 18:50:31 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 18:50:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 18:50:31 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC3.......test execution completed with failure........
+20240220 18:50:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 18:55:13 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:55:13 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 18:55:13 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:55:13 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 18:55:17 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 18:55:17 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 18:55:23 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:55:23 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java52 - -------Starting TC2------
+20240220 18:55:23 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:55:24 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 
+20240220 18:55:24 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 18:55:24 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 18:55:24 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 18:55:30 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:55:30 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java80 - -------Starting TC3------
+20240220 18:55:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:55:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 18:55:31 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 18:55:33 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 18:55:35 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 18:55:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 18:55:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 18:55:37 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 18:55:42 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java110 - -------completed TC3------
+20240220 18:55:42 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 18:55:48 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 18:55:48 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java117 - -------Starting TC4------
+20240220 18:55:49 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 18:55:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 18:55:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 18:55:52 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 18:55:57 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java135 - -------completed TC4------
+20240220 18:55:57 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:08:12 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 19:08:19 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:08:19 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 19:08:19 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:08:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:08:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:08:19 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:08:24 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:08:24 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 19:08:24 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:08:31 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:08:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 19:08:31 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:08:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:08:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:08:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:08:35 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC2.......test execution completed with failure........
+20240220 19:08:35 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 19:08:36 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:08:42 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:08:42 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 19:08:42 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java78 - -------Starting TC3------
+20240220 19:08:42 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:08:42 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:08:42 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:08:45 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:08:46 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:08:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:08:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:08:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:08:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java108 - -------completed TC3------
+20240220 19:08:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 19:08:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:09:00 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:09:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 19:09:00 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java115 - -------Starting TC4------
+20240220 19:09:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:09:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:09:03 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:09:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:09:09 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------completed TC4------
+20240220 19:09:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 19:09:09 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:09:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 19:13:19 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:13:19 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:13:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:13:20 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:13:20 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:13:25 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:13:25 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:13:31 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:13:31 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:13:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:13:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:13:36 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:13:36 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:13:43 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:13:43 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java78 - -------Starting TC3------
+20240220 19:13:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:13:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:13:43 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:13:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:13:47 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:13:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:13:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:13:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:13:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java108 - -------completed TC3------
+20240220 19:13:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:14:01 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:14:01 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java115 - -------Starting TC4------
+20240220 19:14:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:14:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:14:03 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:14:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:14:10 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------completed TC4------
+20240220 19:14:10 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:16:27 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:16:27 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:16:27 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:16:27 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:16:27 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:16:32 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:16:32 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:16:39 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:16:39 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:16:39 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:16:39 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:16:43 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:16:43 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:16:50 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:16:50 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java78 - -------Starting TC3------
+20240220 19:16:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 19:17:05 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:17:05 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 19:17:05 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:17:05 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:17:06 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:17:06 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:17:11 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:17:11 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 19:17:11 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:17:17 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:17:17 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 19:17:17 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:17:17 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:17:17 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:17:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:17:21 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC2.......test execution completed with failure........
+20240220 19:17:21 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 19:17:21 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:17:28 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:17:28 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 19:17:28 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java78 - -------Starting TC3------
+20240220 19:17:28 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:17:28 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:17:28 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:17:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:17:32 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:17:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:17:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:17:34 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:17:39 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java108 - -------completed TC3------
+20240220 19:17:39 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 19:17:39 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:17:46 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:17:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 19:17:46 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java115 - -------Starting TC4------
+20240220 19:17:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:17:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:17:48 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:17:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:17:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------completed TC4------
+20240220 19:17:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 19:17:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:17:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 19:21:14 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:21:14 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:21:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:21:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:21:18 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:21:18 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:22:44 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:22:44 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:22:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:22:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:22:48 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:22:53 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:22:58 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java68 - -------completed TC2------
+20240220 19:22:59 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:23:39 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 19:23:46 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:23:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 19:23:46 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:23:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:23:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:23:46 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:23:51 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:23:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 19:23:51 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:23:58 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:23:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 19:23:58 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:23:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:23:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:24:02 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:24:07 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:24:12 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java68 - -------completed TC2------
+20240220 19:24:12 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 19:24:12 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:24:18 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:24:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 19:24:18 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java73 - -------Starting TC3------
+20240220 19:24:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:24:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:24:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:24:21 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:24:22 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:24:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:24:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:24:25 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:24:30 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java103 - -------completed TC3------
+20240220 19:24:30 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 19:24:30 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:24:36 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:24:36 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 19:24:36 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java110 - -------Starting TC4------
+20240220 19:24:36 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:24:37 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:24:39 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:24:40 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:24:45 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java128 - -------completed TC4------
+20240220 19:24:45 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 19:24:45 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:24:51 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:24:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 19:24:51 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java134 - -------Starting TC5------
+20240220 19:24:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:24:52 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:24:56 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:24:58 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC5.......test execution completed with failure........
+20240220 19:24:58 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 19:24:58 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:24:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 19:26:05 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:26:05 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java134 - -------Starting TC5------
+20240220 19:26:05 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 19:26:06 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 19:26:06 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:26:08 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 19:26:13 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java153 - -------completed TC5------
+20240220 19:26:13 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:26:23 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 19:26:30 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:26:30 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 19:26:30 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:26:30 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:26:31 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:26:31 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:26:36 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:26:36 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 19:26:36 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:26:42 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:26:42 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 19:26:42 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:26:42 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:26:42 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:26:44 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:26:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:26:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java68 - -------completed TC2------
+20240220 19:26:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 19:26:55 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:27:01 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:27:01 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 19:27:01 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java73 - -------Starting TC3------
+20240220 19:27:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:27:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:27:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:27:03 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:27:05 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:27:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:27:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:27:07 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:27:12 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java103 - -------completed TC3------
+20240220 19:27:12 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 19:27:12 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:27:19 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:27:19 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 19:27:19 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java110 - -------Starting TC4------
+20240220 19:27:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:27:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:27:21 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:27:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:27:27 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java128 - -------completed TC4------
+20240220 19:27:27 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 19:27:28 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:27:34 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:27:34 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 19:27:34 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java134 - -------Starting TC5------
+20240220 19:27:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 19:27:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 19:27:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:27:36 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 19:27:41 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java153 - -------completed TC5------
+20240220 19:27:41 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 19:27:41 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:27:41 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 19:32:47 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:32:47 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 19:32:47 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:32:48 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:32:50 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:32:52 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:32:55 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:32:55 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 19:33:00 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 19:33:00 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:36:56 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:36:56 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 19:36:56 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:36:57 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:36:59 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:37:00 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:37:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:37:04 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 19:37:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 19:37:09 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 19:37:09 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:51:33 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 19:51:40 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:51:40 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 19:51:40 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 19:51:41 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:51:41 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:51:41 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 19:51:46 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 19:51:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 19:51:46 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:51:53 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:51:53 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 19:51:53 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 19:51:53 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:51:53 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:51:57 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:52:02 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:52:07 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java68 - -------completed TC2------
+20240220 19:52:07 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 19:52:07 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:52:13 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:52:13 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 19:52:13 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java73 - -------Starting TC3------
+20240220 19:52:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:52:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:52:14 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 19:52:16 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:52:17 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:52:17 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 19:52:18 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 19:52:20 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 19:52:25 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java103 - -------completed TC3------
+20240220 19:52:25 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 19:52:25 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:52:31 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:52:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 19:52:31 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java110 - -------Starting TC4------
+20240220 19:52:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:52:31 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 19:52:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 19:52:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 19:52:40 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java128 - -------completed TC4------
+20240220 19:52:40 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 19:52:40 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:52:46 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:52:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 19:52:46 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java134 - -------Starting TC5------
+20240220 19:52:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 19:52:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 19:52:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 19:52:48 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 19:52:53 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java153 - -------completed TC5------
+20240220 19:52:53 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 19:52:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:53:00 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:53:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC10.......test execution started........
+20240220 19:53:00 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java208 - -------Starting TC10------
+20240220 19:53:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:53:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:53:02 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:53:04 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:53:06 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:53:07 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked New Button
+20240220 19:53:12 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 19:53:12 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 19:53:15 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Save Button
+20240220 19:53:20 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is ABCD
+20240220 19:53:25 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java249 - -------Completed TC10------
+20240220 19:53:25 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC10.......test execution completed with success........
+20240220 19:53:25 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:53:32 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:53:32 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC6.......test execution started........
+20240220 19:53:32 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 19:53:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:53:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:53:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:53:36 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:53:38 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:53:39 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 19:53:44 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 19:53:44 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC6.......test execution completed with success........
+20240220 19:53:44 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:53:50 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:53:50 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC7.......test execution started........
+20240220 19:53:50 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 19:53:50 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:53:50 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:53:52 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:53:54 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:53:57 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:53:57 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 19:53:57 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 19:54:02 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 19:54:02 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC7.......test execution completed with success........
+20240220 19:54:02 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:54:08 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:54:08 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC8.......test execution started........
+20240220 19:54:08 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 19:54:08 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:54:09 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:54:13 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:54:13 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:54:15 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:54:16 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC8.......test execution completed with failure........
+20240220 19:54:16 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 19:54:17 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:54:23 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:54:23 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC9.......test execution started........
+20240220 19:54:23 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java170 - -------Starting TC9------
+20240220 19:54:23 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:54:23 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:54:27 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:54:27 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:54:30 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:54:31 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC9.......test execution completed with failure........
+20240220 19:54:31 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 19:54:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:54:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 19:58:39 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:58:39 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java170 - -------Starting TC9------
+20240220 19:58:39 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:58:39 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:58:42 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:58:43 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:58:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:58:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 19:58:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Go Button
+20240220 19:58:52 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java203 - -------Completed TC9------
+20240220 19:58:53 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 19:59:20 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 19:59:20 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 19:59:20 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 19:59:20 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 19:59:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 19:59:24 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 19:59:26 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 19:59:27 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:02:03 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:02:03 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:02:03 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:02:03 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:02:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:02:07 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:02:10 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:02:12 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:02:13 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Go Button
+20240220 20:02:15 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked user navigation dropdown
+20240220 20:02:17 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout button
+20240220 20:02:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:02:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:02:21 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:04:15 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:04:15 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:04:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:04:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:04:20 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:04:20 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:04:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:04:25 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:04:26 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Go Button
+20240220 20:04:28 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked user navigation dropdown
+20240220 20:04:30 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout button
+20240220 20:04:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:04:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:04:36 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:04:38 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:04:39 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Go Button 2
+20240220 20:04:41 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java169 - -------Completed TC8------
+20240220 20:04:41 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:04:59 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:04:59 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java174 - -------Starting TC9------
+20240220 20:05:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:05:00 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:05:02 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:05:03 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:05:07 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:05:10 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:06:07 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 20:06:14 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:06:14 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 20:06:14 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 20:06:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:06:14 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:06:14 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 20:06:19 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 20:06:19 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 20:06:20 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:06:26 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:06:26 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 20:06:26 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 20:06:26 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:06:26 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:06:30 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:06:35 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:06:40 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java68 - -------completed TC2------
+20240220 20:06:40 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 20:06:40 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:06:47 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:06:47 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 20:06:47 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java73 - -------Starting TC3------
+20240220 20:06:47 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:06:47 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:06:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:06:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:06:51 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:06:51 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:06:51 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 20:06:53 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 20:06:58 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java103 - -------completed TC3------
+20240220 20:06:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 20:06:58 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:07:04 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:07:04 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 20:07:04 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java110 - -------Starting TC4------
+20240220 20:07:04 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:07:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 20:07:07 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 20:07:08 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 20:07:13 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java128 - -------completed TC4------
+20240220 20:07:13 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 20:07:13 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:07:20 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:07:20 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 20:07:20 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java134 - -------Starting TC5------
+20240220 20:07:20 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 20:07:20 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 20:07:20 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:07:22 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 20:07:27 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java153 - -------completed TC5------
+20240220 20:07:27 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 20:07:27 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:07:34 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:07:34 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC10.......test execution started........
+20240220 20:07:34 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java214 - -------Starting TC10------
+20240220 20:07:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:07:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:07:36 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:07:38 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:07:41 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:07:42 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked New Button
+20240220 20:07:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:07:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:07:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Save Button
+20240220 20:07:48 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is ABCD
+20240220 20:07:50 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java255 - -------Completed TC10------
+20240220 20:07:50 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC10.......test execution completed with success........
+20240220 20:07:50 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:07:56 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:07:56 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC6.......test execution started........
+20240220 20:07:56 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 20:07:56 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:07:56 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:07:58 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:08:00 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:08:03 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:08:03 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:08:05 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 20:08:05 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC6.......test execution completed with success........
+20240220 20:08:05 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:08:11 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:08:11 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC7.......test execution started........
+20240220 20:08:11 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 20:08:11 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:08:11 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:08:14 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:08:15 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:08:18 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:08:18 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:08:18 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:08:20 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 20:08:20 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC7.......test execution completed with success........
+20240220 20:08:20 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:08:27 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:08:27 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC8.......test execution started........
+20240220 20:08:27 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:08:27 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:08:27 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:08:29 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:08:31 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:08:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:08:37 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC8.......test execution completed with failure........
+20240220 20:08:37 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:08:37 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:08:43 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:08:43 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC9.......test execution started........
+20240220 20:08:43 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java174 - -------Starting TC9------
+20240220 20:08:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:08:44 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:08:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:08:47 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:08:50 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:08:53 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC9.......test execution completed with failure........
+20240220 20:08:53 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:08:53 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:08:53 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 20:28:57 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 20:29:04 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:29:04 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 20:29:04 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 20:29:04 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:29:05 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:29:05 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 20:29:10 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 20:29:10 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 20:29:10 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:29:16 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:29:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 20:29:16 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 20:29:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:29:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:29:20 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:29:25 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:29:30 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java67 - -------completed TC2------
+20240220 20:29:30 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 20:29:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:29:37 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:29:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 20:29:37 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java72 - -------Starting TC3------
+20240220 20:29:37 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:29:37 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:29:37 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:29:39 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:29:41 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:29:41 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:29:42 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 20:29:44 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 20:29:49 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java102 - -------completed TC3------
+20240220 20:29:49 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 20:29:49 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:29:55 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:29:55 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 20:29:55 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java109 - -------Starting TC4------
+20240220 20:29:55 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:29:55 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 20:29:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 20:29:59 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 20:30:04 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java127 - -------completed TC4------
+20240220 20:30:04 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 20:30:04 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:30:10 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:30:10 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 20:30:10 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------Starting TC5------
+20240220 20:30:10 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 20:30:10 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 20:30:11 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:30:13 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 20:30:18 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java152 - -------completed TC5------
+20240220 20:30:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 20:30:18 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:30:24 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:30:24 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC10.......test execution started........
+20240220 20:30:24 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java214 - -------Starting TC10------
+20240220 20:30:24 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:30:24 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:30:26 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:30:28 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:30:31 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:30:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked New Button
+20240220 20:30:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:30:34 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:30:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Save Button
+20240220 20:30:37 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is ABCD
+20240220 20:30:39 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java255 - -------Completed TC10------
+20240220 20:30:39 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC10.......test execution completed with success........
+20240220 20:30:39 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:30:46 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:30:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC6.......test execution started........
+20240220 20:30:46 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 20:30:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:30:46 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:30:48 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:30:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:30:52 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:30:52 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:30:54 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 20:30:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC6.......test execution completed with success........
+20240220 20:30:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:31:00 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:31:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC7.......test execution started........
+20240220 20:31:00 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 20:31:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:31:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:31:03 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:31:04 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:31:07 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:31:07 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:31:07 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:31:09 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 20:31:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC7.......test execution completed with success........
+20240220 20:31:09 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:31:15 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:31:15 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC8.......test execution started........
+20240220 20:31:15 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:31:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:31:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:31:17 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:31:19 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:31:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:31:25 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC8.......test execution completed with failure........
+20240220 20:31:25 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:31:25 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:31:32 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:31:32 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC9.......test execution started........
+20240220 20:31:32 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java174 - -------Starting TC9------
+20240220 20:31:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:31:32 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:31:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:31:35 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:31:38 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:31:41 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC9.......test execution completed with failure........
+20240220 20:31:41 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:31:42 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:31:42 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 20:33:42 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 20:33:48 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:33:48 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 20:33:48 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 20:33:48 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:33:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:33:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 20:33:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 20:33:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 20:33:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:34:00 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:34:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 20:34:00 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 20:34:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:34:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:34:03 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:34:08 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:34:13 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java67 - -------completed TC2------
+20240220 20:34:13 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 20:34:13 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:34:19 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:34:19 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 20:34:19 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java72 - -------Starting TC3------
+20240220 20:34:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:34:19 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:34:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:34:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:34:23 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:34:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:34:24 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 20:34:26 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 20:34:31 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java102 - -------completed TC3------
+20240220 20:34:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 20:34:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:34:37 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:34:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 20:34:37 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java109 - -------Starting TC4------
+20240220 20:34:37 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:34:38 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 20:34:40 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 20:34:41 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 20:34:46 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java127 - -------completed TC4------
+20240220 20:34:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 20:34:46 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:34:52 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:34:52 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 20:34:52 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------Starting TC5------
+20240220 20:34:52 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 20:34:52 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 20:34:53 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:34:55 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 20:35:00 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java152 - -------completed TC5------
+20240220 20:35:00 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 20:35:00 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:35:06 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:35:06 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC10.......test execution started........
+20240220 20:35:06 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java214 - -------Starting TC10------
+20240220 20:35:06 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:35:06 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:35:09 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:35:11 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:35:14 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:35:14 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked New Button
+20240220 20:35:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:35:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:35:17 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Save Button
+20240220 20:35:19 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is ABCD
+20240220 20:35:21 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java255 - -------Completed TC10------
+20240220 20:35:21 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC10.......test execution completed with success........
+20240220 20:35:21 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:35:27 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:35:27 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC6.......test execution started........
+20240220 20:35:27 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 20:35:28 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:35:28 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:35:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:35:32 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:35:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:35:34 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:35:36 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 20:35:36 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC6.......test execution completed with success........
+20240220 20:35:36 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:35:43 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:35:43 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC7.......test execution started........
+20240220 20:35:43 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 20:35:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:35:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:35:45 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:35:46 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:35:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:35:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:35:49 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:35:51 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 20:35:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC7.......test execution completed with success........
+20240220 20:35:51 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:35:58 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:35:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC8.......test execution started........
+20240220 20:35:58 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:35:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:35:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:36:00 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:36:01 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:36:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:36:07 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC8.......test execution completed with failure........
+20240220 20:36:07 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:36:07 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:36:14 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:36:14 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC9.......test execution started........
+20240220 20:36:14 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java174 - -------Starting TC9------
+20240220 20:36:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:36:14 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:36:16 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:36:18 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:36:21 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:36:24 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC9.......test execution completed with failure........
+20240220 20:36:24 INFO  [main] base.BaseTestSF BaseTestSF.java164 - captured the screen
+20240220 20:36:24 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:36:31 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:36:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC11.......test execution started........
+20240220 20:36:31 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java21 - -------Starting TC11------
+20240220 20:36:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:36:31 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:36:34 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:36:34 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:36:37 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:36:39 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked drop down button clicked
+20240220 20:36:44 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java47 - -------completed TC11------
+20240220 20:36:45 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC11.......test execution completed with success........
+20240220 20:36:45 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:36:51 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:36:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC12.......test execution started........
+20240220 20:36:51 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java51 - -------Starting TC12------
+20240220 20:36:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:36:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:36:53 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:36:55 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:36:57 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:37:00 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked new button clicked
+20240220 20:37:02 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is opportunity name one
+20240220 20:37:02 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 2/4/2024
+20240220 20:37:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked save button clicked
+20240220 20:37:06 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is opportunity name one
+20240220 20:37:08 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java102 - -------completed TC12------
+20240220 20:37:08 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC12.......test execution completed with success........
+20240220 20:37:08 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:37:15 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:37:15 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC13.......test execution started........
+20240220 20:37:15 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java106 - -------Starting TC13------
+20240220 20:37:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:37:15 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:37:19 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:37:19 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:37:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:37:25 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Pipeline clicked
+20240220 20:37:27 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Opportunity Pipeline
+20240220 20:37:29 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java142 - -------completed TC13------
+20240220 20:37:29 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC13.......test execution completed with success........
+20240220 20:37:29 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:37:35 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:37:35 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC14.......test execution started........
+20240220 20:37:35 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java146 - -------Starting TC14------
+20240220 20:37:35 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:37:35 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:37:40 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:37:40 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:37:43 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:37:46 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Stuck Opportunity clicked
+20240220 20:37:48 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Stuck Opportunities
+20240220 20:37:50 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java182 - -------completed TC14------
+20240220 20:37:50 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC14.......test execution completed with success........
+20240220 20:37:50 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:37:56 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:37:56 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC15.......test execution started........
+20240220 20:37:56 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java186 - -------Starting TC15------
+20240220 20:37:56 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:37:56 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:37:58 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:38:00 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:38:03 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:38:06 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Run Report Button clicked
+20240220 20:38:08 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Opportunity Report
+20240220 20:38:10 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java230 - -------completed TC15------
+20240220 20:38:10 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC15.......test execution completed with success........
+20240220 20:38:10 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:38:10 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240220 20:45:05 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240220 20:45:12 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:45:12 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240220 20:45:12 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java28 - -------Starting TC1------
+20240220 20:45:12 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:45:13 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:45:13 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please enter your password.
+20240220 20:45:18 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java43 - -------completed TC1------
+20240220 20:45:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240220 20:45:18 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:45:24 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:45:24 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240220 20:45:24 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java49 - -------Starting TC2------
+20240220 20:45:24 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:45:24 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:45:27 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:45:32 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:45:37 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java67 - -------completed TC2------
+20240220 20:45:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240220 20:45:37 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:45:43 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:45:43 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240220 20:45:43 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java72 - -------Starting TC3------
+20240220 20:45:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:45:43 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:45:43 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:45:45 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:45:47 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:45:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:45:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Logout Button
+20240220 20:45:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is meenu@tekarch.com
+20240220 20:45:54 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java102 - -------completed TC3------
+20240220 20:45:54 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240220 20:45:54 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:46:01 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:46:01 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240220 20:46:01 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java109 - -------Starting TC4------
+20240220 20:46:01 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:46:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked forgot password
+20240220 20:46:03 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenunigam@gmail.com
+20240220 20:46:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked continue button
+20240220 20:46:09 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java127 - -------completed TC4------
+20240220 20:46:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240220 20:46:09 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:46:16 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:46:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240220 20:46:16 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java133 - -------Starting TC5------
+20240220 20:46:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 123
+20240220 20:46:16 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 22131
+20240220 20:46:16 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Login Button
+20240220 20:46:18 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240220 20:46:23 INFO  [main] automationtests.TestScriptLogin TestScriptLogin.java152 - -------completed TC5------
+20240220 20:46:23 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240220 20:46:23 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:46:29 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:46:29 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC10.......test execution started........
+20240220 20:46:29 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java214 - -------Starting TC10------
+20240220 20:46:29 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:46:29 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:46:32 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:46:33 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:46:35 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:46:36 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked New Button
+20240220 20:46:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:46:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is ABCD
+20240220 20:46:40 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Save Button
+20240220 20:46:42 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is ABCD
+20240220 20:46:44 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java255 - -------Completed TC10------
+20240220 20:46:44 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC10.......test execution completed with success........
+20240220 20:46:44 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:46:50 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:46:50 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC6.......test execution started........
+20240220 20:46:50 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java25 - -------Starting TC6------
+20240220 20:46:50 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:46:50 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:46:53 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:46:54 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:46:57 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:46:57 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:46:59 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java50 - -------Completed TC6------
+20240220 20:46:59 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC6.......test execution completed with success........
+20240220 20:46:59 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:47:06 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:47:06 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC7.......test execution started........
+20240220 20:47:06 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java56 - -------Starting TC7------
+20240220 20:47:06 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:47:06 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:47:08 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:47:10 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:47:12 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:47:13 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Leads
+20240220 20:47:13 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads dropdown
+20240220 20:47:15 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java98 - -------Completed TC7------
+20240220 20:47:15 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - LeadsSFTC7.......test execution completed with success........
+20240220 20:47:15 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:47:21 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:47:21 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC8.......test execution started........
+20240220 20:47:21 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java103 - -------Starting TC8------
+20240220 20:47:21 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:47:21 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:47:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:47:25 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:47:28 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:47:31 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC8.......test execution completed with failure........
+20240220 20:47:31 INFO  [main] base.BaseTestSF BaseTestSF.java169 - captured the screen
+20240220 20:47:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:47:37 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:47:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - LeadsSFTC9.......test execution started........
+20240220 20:47:37 INFO  [main] automationtests.TestScriptLeads TestScriptLeads.java174 - -------Starting TC9------
+20240220 20:47:37 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:47:37 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:47:39 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:47:41 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:47:44 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Leads Menu
+20240220 20:47:47 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - LeadsSFTC9.......test execution completed with failure........
+20240220 20:47:47 INFO  [main] base.BaseTestSF BaseTestSF.java169 - captured the screen
+20240220 20:47:47 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:47:53 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:47:53 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC11.......test execution started........
+20240220 20:47:53 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java21 - -------Starting TC11------
+20240220 20:47:53 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:47:53 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:47:56 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:47:57 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:48:00 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:48:02 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked drop down button clicked
+20240220 20:48:07 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java47 - -------completed TC11------
+20240220 20:48:07 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC11.......test execution completed with success........
+20240220 20:48:07 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:48:13 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:48:13 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC12.......test execution started........
+20240220 20:48:13 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java51 - -------Starting TC12------
+20240220 20:48:13 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:48:13 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:48:16 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:48:17 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:48:20 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:48:23 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked new button clicked
+20240220 20:48:25 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is opportunity name one
+20240220 20:48:25 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is 2/4/2024
+20240220 20:48:27 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked save button clicked
+20240220 20:48:29 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is opportunity name one
+20240220 20:48:31 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java102 - -------completed TC12------
+20240220 20:48:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC12.......test execution completed with success........
+20240220 20:48:31 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:48:38 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:48:38 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC13.......test execution started........
+20240220 20:48:38 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java106 - -------Starting TC13------
+20240220 20:48:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:48:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:48:40 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:48:42 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:48:44 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:48:47 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Pipeline clicked
+20240220 20:48:49 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Opportunity Pipeline
+20240220 20:48:51 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java142 - -------completed TC13------
+20240220 20:48:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC13.......test execution completed with success........
+20240220 20:48:51 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:48:58 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:48:58 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC14.......test execution started........
+20240220 20:48:58 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java146 - -------Starting TC14------
+20240220 20:48:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:48:58 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:49:01 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:49:01 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:49:04 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:49:07 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Stuck Opportunity clicked
+20240220 20:49:09 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Stuck Opportunities
+20240220 20:49:11 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java182 - -------completed TC14------
+20240220 20:49:11 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC14.......test execution completed with success........
+20240220 20:49:11 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:49:18 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:49:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - OptySFTC15.......test execution started........
+20240220 20:49:18 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java186 - -------Starting TC15------
+20240220 20:49:18 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:49:18 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:49:22 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:49:22 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:49:25 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Opportunity Menu
+20240220 20:49:28 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Run Report Button clicked
+20240220 20:49:30 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Opportunity Report
+20240220 20:49:32 INFO  [main] automationtests.TestScriptOpty TestScriptOpty.java230 - -------completed TC15------
+20240220 20:49:32 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - OptySFTC15.......test execution completed with success........
+20240220 20:49:32 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:49:38 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:49:38 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - userMenuSFTC16.......test execution started........
+20240220 20:49:38 INFO  [main] automationtests.TestScriptUserMenuDD TestScriptUserMenuDD.java27 - -------Starting TC16------
+20240220 20:49:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:49:38 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:49:38 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:49:41 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:49:43 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:49:43 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:49:45 INFO  [main] automationtests.TestScriptUserMenuDD TestScriptUserMenuDD.java65 - -------Completed TC16------
+20240220 20:49:45 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - userMenuSFTC16.......test execution completed with success........
+20240220 20:49:45 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:49:51 INFO  [main] base.BaseTestSF BaseTestSF.java40 - -------in before method------
+20240220 20:49:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - userMenuSFTC17.......test execution started........
+20240220 20:49:51 INFO  [main] automationtests.TestScriptUserMenuDD TestScriptUserMenuDD.java71 - -------Starting TC17------
+20240220 20:49:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is meenu@tekarch.com
+20240220 20:49:51 INFO  [main] base.BaseTestSF BaseTestSF.java57 - Text entered is dolly123
+20240220 20:49:51 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked Remember Check Box
+20240220 20:49:54 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked  Login Button
+20240220 20:49:56 INFO  [main] base.BaseTestSF BaseTestSF.java67 - Text got from web element is Home
+20240220 20:49:56 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked User Menu
+20240220 20:49:58 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked MyProfile Menu item
+20240220 20:49:58 INFO  [main] base.BaseTestSF BaseTestSF.java62 - User clicked EditProfile button
+20240220 20:50:02 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - userMenuSFTC17.......test execution completed with failure........
+20240220 20:50:02 INFO  [main] base.BaseTestSF BaseTestSF.java169 - captured the screen
+20240220 20:50:02 INFO  [main] base.BaseTestSF BaseTestSF.java46 - -------in afterallmethods method------
+20240220 20:50:02 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240221 22:01:06 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240221 22:01:06 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:01:08 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:01:08 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:01:09 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:01:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240221 22:01:09 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java36 - ------login to salesforce without password------
+20240221 22:01:09 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:01:12 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:01:14 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Error Message
+20240221 22:01:16 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java55 - -------in login method with blank password field------
+20240221 22:01:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240221 22:01:16 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:01:16 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:01:16 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:01:17 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:01:17 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:01:18 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:01:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240221 22:01:18 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java62 - ------login to salesforce with valid username and password------
+20240221 22:01:18 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:01:18 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:01:25 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:01:27 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:01:29 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java82 - -------in login method with blank password field------
+20240221 22:01:29 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240221 22:01:30 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:01:30 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:01:30 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:01:30 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:01:30 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:01:31 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:01:31 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240221 22:01:31 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java89 - ------Started logout test case------
+20240221 22:01:31 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:01:32 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:01:32 INFO  [main] base.BasePage BasePage.java47 - clicked remember me check boxbutton is clicked
+20240221 22:01:37 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:01:39 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:01:41 INFO  [main] base.BasePage BasePage.java47 - clicked user menubutton is clicked
+20240221 22:01:42 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC3.......test execution completed with failure........
+20240221 22:01:42 INFO  [main] base.BaseTestSF BaseTestSF.java131 - captured the screen
+20240221 22:01:42 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:01:42 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:01:42 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:01:43 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:01:43 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:01:44 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:01:44 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240221 22:01:44 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java132 - ------starting forgot password test case TC4------
+20240221 22:01:44 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:01:44 INFO  [main] base.BasePage BasePage.java47 - clicked Forgot Passwordbutton is clicked
+20240221 22:01:46 INFO  [main] base.BasePage BasePage.java35 - data is entered in email field textbox
+20240221 22:01:48 INFO  [main] base.BasePage BasePage.java47 - clicked continue buttonbutton is clicked
+20240221 22:01:51 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java156 - -------Completed forgot Password test  Case TC4------
+20240221 22:01:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240221 22:01:51 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:01:51 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:01:51 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240221 22:05:28 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240221 22:05:28 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:05:29 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:05:29 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:05:30 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:05:30 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240221 22:05:30 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java36 - ------login to salesforce without password------
+20240221 22:05:30 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:05:33 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:05:35 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Error Message
+20240221 22:05:37 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java55 - -------in login method with blank password field------
+20240221 22:05:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240221 22:05:37 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:05:37 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:05:37 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:05:37 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:05:38 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:05:38 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:05:38 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240221 22:05:38 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java62 - ------login to salesforce with valid username and password------
+20240221 22:05:39 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:05:39 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:05:43 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:05:45 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:05:47 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java82 - -------in login method with blank password field------
+20240221 22:05:47 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240221 22:05:48 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:05:48 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:05:48 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:05:48 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:05:48 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:05:49 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:05:49 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240221 22:05:49 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java89 - ------Started logout test case------
+20240221 22:05:49 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:05:50 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:05:50 INFO  [main] base.BasePage BasePage.java47 - clicked remember me check boxbutton is clicked
+20240221 22:06:00 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:06:02 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:06:04 INFO  [main] base.BasePage BasePage.java47 - clicked user menubutton is clicked
+20240221 22:06:07 ERROR [main] utilities.sfListenerUtility sfListenerUtility.java35 - loginSFTC3.......test execution completed with failure........
+20240221 22:06:07 INFO  [main] base.BaseTestSF BaseTestSF.java131 - captured the screen
+20240221 22:06:07 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:06:07 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:06:07 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:06:08 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:06:08 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:06:09 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:06:09 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240221 22:06:09 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java132 - ------starting forgot password test case TC4------
+20240221 22:06:09 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:06:10 INFO  [main] base.BasePage BasePage.java47 - clicked Forgot Passwordbutton is clicked
+20240221 22:06:12 INFO  [main] base.BasePage BasePage.java35 - data is entered in email field textbox
+20240221 22:06:13 INFO  [main] base.BasePage BasePage.java47 - clicked continue buttonbutton is clicked
+20240221 22:06:16 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java156 - -------Completed forgot Password test  Case TC4------
+20240221 22:06:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240221 22:06:16 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:06:16 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:06:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
+20240221 22:09:37 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java49 - SFLoginTest has started....................
+20240221 22:09:37 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:09:38 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:09:38 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:09:39 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:09:39 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC1.......test execution started........
+20240221 22:09:39 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java36 - ------login to salesforce without password------
+20240221 22:09:39 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:09:42 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:09:44 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Error Message
+20240221 22:09:46 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java55 - -------in login method with blank password field------
+20240221 22:09:46 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC1.......test execution completed with success........
+20240221 22:09:46 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:09:46 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:09:46 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:09:47 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:09:47 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:09:48 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:09:48 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC2.......test execution started........
+20240221 22:09:48 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java62 - ------login to salesforce with valid username and password------
+20240221 22:09:48 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:09:48 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:09:55 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:09:57 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:09:59 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java82 - -------in login method with blank password field------
+20240221 22:09:59 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC2.......test execution completed with success........
+20240221 22:09:59 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:09:59 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:09:59 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:10:00 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:10:00 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:10:01 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:10:01 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC3.......test execution started........
+20240221 22:10:01 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java89 - ------Started logout test case------
+20240221 22:10:01 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:10:01 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:10:02 INFO  [main] base.BasePage BasePage.java47 - clicked remember me check boxbutton is clicked
+20240221 22:10:06 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:10:08 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Home Tab
+20240221 22:10:10 INFO  [main] base.BasePage BasePage.java47 - clicked user menubutton is clicked
+20240221 22:10:13 INFO  [main] base.BasePage BasePage.java47 - clicked logout buttonbutton is clicked
+20240221 22:10:15 INFO  [main] base.BasePage BasePage.java58 - text is extracted from UserName Field read
+20240221 22:10:16 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java125 - -------completed logout test case------
+20240221 22:10:16 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC3.......test execution completed with success........
+20240221 22:10:17 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:10:17 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:10:17 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:10:17 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:10:17 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:10:18 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:10:18 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC4.......test execution started........
+20240221 22:10:18 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java132 - ------starting forgot password test case TC4------
+20240221 22:10:18 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:10:19 INFO  [main] base.BasePage BasePage.java47 - clicked Forgot Passwordbutton is clicked
+20240221 22:10:21 INFO  [main] base.BasePage BasePage.java35 - data is entered in email field textbox
+20240221 22:10:22 INFO  [main] base.BasePage BasePage.java47 - clicked continue buttonbutton is clicked
+20240221 22:10:25 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java156 - -------Completed forgot Password test  Case TC4------
+20240221 22:10:25 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC4.......test execution completed with success........
+20240221 22:10:25 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:10:25 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:10:25 INFO  [main] base.BaseTestSF BaseTestSF.java49 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 22:10:26 INFO  [main] base.BaseTestSF BaseTestSF.java70 - browser instance chrome created.
+20240221 22:10:26 INFO  [main] base.BaseTestSF BaseTestSF.java73 - window is maximized
+20240221 22:10:27 INFO  [main] base.BaseTestSF BaseTestSF.java109 - https://login.salesforce.comis entered
+20240221 22:10:27 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java21 - loginSFTC5.......test execution started........
+20240221 22:10:27 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java163 - ------Starting incorrect username password test case TC5------
+20240221 22:10:27 INFO  [main] base.BasePage BasePage.java35 - data is entered in Username textbox textbox
+20240221 22:10:27 INFO  [main] base.BasePage BasePage.java35 - data is entered in password field textbox
+20240221 22:10:29 INFO  [main] base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240221 22:10:32 INFO  [main] base.BasePage BasePage.java58 - text is extracted from Error Message
+20240221 22:10:34 INFO  [main] automationTests.TestScriptLogin TestScriptLogin.java182 - -------completed incorrect username password test case TC5------
+20240221 22:10:34 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java28 - loginSFTC5.......test execution completed with success........
+20240221 22:10:34 INFO  [main] base.BaseTestSF BaseTestSF.java115 - browser instance closed
+20240221 22:10:34 INFO  [main] base.BaseTestSF BaseTestSF.java59 - ******tearDownAfterTestMethod executed***********
+20240221 22:10:34 INFO  [main] utilities.sfListenerUtility sfListenerUtility.java57 - SFLoginTest has ended....................
